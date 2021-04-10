@@ -30,3 +30,4 @@ Winner: {winner}
 print(result)
 with open('./analysis/' + "analysis.txt" , "w") as text_file:
     text_file.write(result)
+    
